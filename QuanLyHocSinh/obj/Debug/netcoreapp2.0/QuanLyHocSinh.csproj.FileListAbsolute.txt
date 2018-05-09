@@ -1,0 +1,14 @@
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.deps.json
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.runtimeconfig.json
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.runtimeconfig.dev.json
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.dll
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.csprojResolveAssemblyReference.cache
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.csproj.CoreCompileInputs.cache
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.AssemblyInfoInputs.cache
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.AssemblyInfo.cs
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.pdb
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.dll
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.pdb
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.DAL.dll
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\netcoreapp2.0\QuanLyHocSinh.DAL.pdb
+E:\Project\C#\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\netcoreapp2.0\QuanLyHocSinh.csproj.CopyComplete
